@@ -20,3 +20,5 @@ const getData = () => {
     },
   ];
 };
+
+export { getData };
